@@ -1,0 +1,6 @@
+//TypeScript is configured using tsconfig.json. 
+//Even if you don’t write TypeScript code, this file
+//is important so that tools like Astro and VS Code know how to understand your project.
+{
+  "extends": "astro/tsconfigs/strict"
+}
